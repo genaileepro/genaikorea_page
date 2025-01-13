@@ -22,6 +22,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "../leepro_landingpage/src/components/sections/details/CommunityHighlights.tsx", "../leepro_landingpage/src/components/sections/details/LearningRoadmap.tsx", "../leepro_landingpage/src/components/sections/details/QnASection.tsx", "../leepro_landingpage/src/components/sections/details/ResourceHub.tsx", "../leepro_landingpage/src/components/sections/details/AICaseStudies.tsx", "../leepro_landingpage/src/components/sections/details/AITrends.tsx"],
   "exclude": ["node_modules"]
 }
