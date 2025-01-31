@@ -19,7 +19,7 @@ export default function Page4() {
                         <Image
                             className="w-full h-auto object-contain"
                             alt="Rectangle-5"
-                            src="/rectangle-5.svg"
+                            src="/Rectangle-5.svg"
                             width={500}
                             height={500}
                             priority
