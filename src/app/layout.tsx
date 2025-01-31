@@ -3,7 +3,7 @@ import { ThemeProvider } from '@/components/theme-provider';
 import './globals.css';
 
 export const metadata: Metadata = {
-    title: '이프로의 AI 이야기',
+    title: '생성 AI 코리아',
     description:
         'AI 개발과 기획, 크리에이터의 경계를 넘나드는 웹 개발자입니다.',
 };
