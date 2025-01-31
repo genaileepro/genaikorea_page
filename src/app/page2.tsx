@@ -50,7 +50,15 @@ export default function Page2() {
                         GPT 출시 후 다수 기관 강의 출강
                     </h2>
                     <div className="border-t border-white my-8" />
-                    <div className="space-y-4 text-white text-lg">
+                    {/* 이미지 갤러리 */}
+                    <Image
+                        src="/Group 427319476.svg"
+                        alt="강의 이미지"
+                        width={1558}
+                        height={962}
+                        className="w-full h-auto"
+                    />
+                    <div className="text-lg text-white mt-8">
                         <p>• 2023년 모두의 연구소 ChatGPT VOD 강의제작</p>
                         <p>
                             • 아모레 퍼시픽, 섬유산업연합회, 한국
@@ -61,17 +69,6 @@ export default function Page2() {
                             일자리창출센터 등 공기관 다수 기업강의 진행
                         </p>
                     </div>
-                </section>
-
-                {/* 이미지 갤러리 */}
-                <section className="mb-24">
-                    <Image
-                        src="/Group 427319476.svg"
-                        alt="강의 이미지"
-                        width={1558}
-                        height={962}
-                        className="w-full h-auto"
-                    />
                 </section>
 
                 {/* 공모전 섹션 */}
