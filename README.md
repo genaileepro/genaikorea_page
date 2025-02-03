@@ -1,36 +1,20 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 2025년 월간 웹페이지 제작 프로젝트 1월 결과물
 
-## Getting Started
+# 생성 AI 코리아 랜딩페이지
+  1) 2023년 부터 운영중인 유튜브채널과 커뮤니티 및 2025년부터 시행하기 위해 기획한 프로그램을 하나의 퍼널구조 형태로 만들기 위해 기획했습니다.
+  2) React(Next.js) 환경으로 만들었습니다.
+  3) 퍼널구조 성격을 띄는 랜딩페이지 입니다. 그동안의 히스토리와 해리티지를 함께 적용하기위해 노력했습니다.
 
-First, run the development server:
+### 1. AI(ChatGPT, zenspark)를 활용하여 1차 기획을 진행했습니다.
+### 2. Excalidraw로 기획안에 대한 스케치를 진행했습니다.
+![image](https://github.com/user-attachments/assets/11df9ecf-b9ce-48d4-8315-4496c614dd79)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### 3. Figma를 활용하여 최종 스케치에 대한 디자인을 진행했습니다.
+![image](https://github.com/user-attachments/assets/d82d3b80-e9e9-4bb5-81de-0293e9556e79)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 4. 퍼블리싱에는 Cursor AI를 활용했습니다.
+![image](https://github.com/user-attachments/assets/0949c5de-db76-479e-8d8e-4c94592c36a5)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### 5. 클라이언트 배포는 Vercel을 활용하여 배포했습니다.
+https://genaikorea.vercel.app/
