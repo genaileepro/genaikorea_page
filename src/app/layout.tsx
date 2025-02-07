@@ -4,8 +4,7 @@ import './globals.css';
 
 export const metadata: Metadata = {
     title: '생성 AI 코리아',
-    description:
-        'AI 개발과 기획, 크리에이터의 경계를 넘나드는 웹 개발자입니다.',
+    description: '생성형 AI 전문가와 함께하는 AI 교육 및 컨설팅 플랫폼',
 };
 
 export default function RootLayout({
