@@ -208,9 +208,16 @@ export default function Page4() {
 
                 {/* CTA 섹션 */}
                 <section className="text-center pb-24">
-                    <button className="bg-[#2F3133] text-white text-2xl md:text-4xl py-8 px-16 rounded-full hover:bg-[#3F4143] transition-colors">
-                        제작 상담 신청하기
-                    </button>
+                    <a
+                        href="https://open.kakao.com/o/sWPQwSXe"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-block"
+                    >
+                        <button className="bg-[#2F3133] text-white text-2xl md:text-4xl py-8 px-16 rounded-full hover:bg-[#3F4143] transition-colors">
+                            제작 상담 신청하기
+                        </button>
+                    </a>
                 </section>
             </div>
         </div>
